@@ -28,5 +28,5 @@ unlink:
 
 update:
 		@echo "updating.."
-		curl -s --request GET --location --url "" > /data/data/com.termux/files/usr/bin/${PKG_NAME}
+		curl -s --request GET --location --url "https://raw.githubusercontent.com/HELIXS-TEAM/retcat/main/main.sh" > /data/data/com.termux/files/usr/bin/${PKG_NAME}
 		@echo "berhasil di update"
