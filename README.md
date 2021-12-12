@@ -38,4 +38,9 @@ make install
 retcat --help
 ```
 
-- [![](https://img.shields.io/static/v1?style=plastic&logo=firefox&label=Code&message=by%20polygon&color=green)](https://helixs.id)
+- [![](https://img.shields.io/static/v1?style=plastic&logo=firefox&label=blog&message=HELIXS-CREW&color=blue)](https://helixs.id)
+
+
+<p align="center">
+  Terimakasi telah berkunjung
+</p>
